@@ -130,16 +130,5 @@
     "reason": "ISD official ministerial inspection reports 20% complete; site district and firm assignment not explicit. Distinct from Tamale Aboabo.",
     "source_ids": "SRC-AUD-012",
     "reviewer": "Desk audit"
-  },
-  {
-    "change_id": "AUD-20261028-013",
-    "market_id": "MKT-0006",
-    "date": "2026-10-28",
-    "field": "verification_level / source_url",
-    "old_value": "V4 / no original URL",
-    "new_value": "V3 / original 12 October 2026 report retrieved",
-    "reason": "Direct interview with named DCE recovered; no independent construction observation; precise project identity unresolved",
-    "source_ids": "SRC-AUD-006",
-    "reviewer": "Desk audit"
   }
 ]
