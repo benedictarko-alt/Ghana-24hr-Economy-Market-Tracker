@@ -1,0 +1,145 @@
+[
+  {
+    "change_id": "AUD-20261028-001",
+    "market_id": "MKT-0001",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Under construction",
+    "reason": "Original journalist site visit with named consultant; 70–80% pertains only to blockwork, not whole project.",
+    "source_ids": "SRC-AUD-001",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-002",
+    "market_id": "MKT-0002",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Under construction",
+    "reason": "Onua original regional minister site reporting; 15% attributed, not certified. Exact project footprint unknown.",
+    "source_ids": "SRC-AUD-002",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-003",
+    "market_id": "MKT-0003",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V5 / Unknown / unverified",
+    "reason": "Citi report identifies Micardor contractor and Devpro consultant; later Onua reports termination but inconsistent replacement status (pending versus re-awarded).",
+    "source_ids": "SRC-AUD-003",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-004",
+    "market_id": "MKT-0004",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Proposed / announced",
+    "reason": "Regional minister attributes land acquisition difficulty; precise approved site unconfirmed.",
+    "source_ids": "SRC-AUD-004",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-005",
+    "market_id": "MKT-0005",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Proposed / announced",
+    "reason": "Regional minister reports unresolved land acquisition; precise market location unverified.",
+    "source_ids": "SRC-AUD-005",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-006",
+    "market_id": "MKT-0006",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V4 / Under construction",
+    "reason": "Original Shama report not independently re-located in this audit; prior claim remains unverified",
+    "source_ids": "",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-007",
+    "market_id": "MKT-0007",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V1 / Proposed / announced",
+    "reason": "Assembly directly documents site handover, consultant and contractor; handover does not prove physical works.",
+    "source_ids": "SRC-AUD-007",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-008",
+    "market_id": "MKT-0008",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V1 / Proposed / announced",
+    "reason": "Assembly directly documents May 26 site handover at old Timber Market, Boete; site clearing not sufficient proof of substantive works.",
+    "source_ids": "SRC-AUD-008",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-009",
+    "market_id": "MKT-0009",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V1 / Under construction",
+    "reason": "Assembly original inspection report establishes reported physical works; 10% consultant estimate, not independently measured.",
+    "source_ids": "SRC-AUD-009",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-010",
+    "market_id": "MKT-0010",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V1 / Proposed / announced",
+    "reason": "Assembly documents May 14 handover and May 30 scheduled commencement, not actual substantive construction.",
+    "source_ids": "SRC-AUD-010",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-011",
+    "market_id": "MKT-0011",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Under construction",
+    "reason": "ISD official ministerial inspection reports 55% complete; consultant-contractor site assignment not explicit.",
+    "source_ids": "SRC-AUD-011",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-012",
+    "market_id": "MKT-0012",
+    "date": "2026-10-28",
+    "field": "verification_level / status",
+    "old_value": "V4 / legacy prototype",
+    "new_value": "V3 / Under construction",
+    "reason": "ISD official ministerial inspection reports 20% complete; site district and firm assignment not explicit. Distinct from Tamale Aboabo.",
+    "source_ids": "SRC-AUD-012",
+    "reviewer": "Desk audit"
+  },
+  {
+    "change_id": "AUD-20261028-013",
+    "market_id": "MKT-0006",
+    "date": "2026-10-28",
+    "field": "verification_level / source_url",
+    "old_value": "V4 / no original URL",
+    "new_value": "V3 / original 12 October 2026 report retrieved",
+    "reason": "Direct interview with named DCE recovered; no independent construction observation; precise project identity unresolved",
+    "source_ids": "SRC-AUD-006",
+    "reviewer": "Desk audit"
+  }
+]

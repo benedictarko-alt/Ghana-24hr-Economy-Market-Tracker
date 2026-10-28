@@ -1,0 +1,123 @@
+[
+  {
+    "claim_id": "CLM-AUD-001",
+    "market_id": "MKT-0001",
+    "claim_text": "Blockwork reportedly 70–80%; not overall completion",
+    "source_ids": "SRC-AUD-001",
+    "verification": "V3",
+    "basis": "Original journalist site visit with named consultant; 70–80% pertains only to blockwork, not whole project.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-002",
+    "market_id": "MKT-0002",
+    "claim_text": "15% reported completion; site footprint unconfirmed; contractor TEK Constructions",
+    "source_ids": "SRC-AUD-002",
+    "verification": "V3",
+    "basis": "Onua original regional minister site reporting; 15% attributed, not certified. Exact project footprint unknown.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-003",
+    "market_id": "MKT-0003",
+    "claim_text": "Reported contractor termination; replacement pending",
+    "source_ids": "SRC-AUD-003",
+    "verification": "V5",
+    "basis": "Citi report identifies Micardor contractor and Devpro consultant; later Onua reports termination but inconsistent replacement status (pending versus re-awarded).",
+    "conflict_note": "Replacement contract status inconsistent",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-004",
+    "market_id": "MKT-0004",
+    "claim_text": "Site acquisition/location unresolved",
+    "source_ids": "SRC-AUD-004",
+    "verification": "V3",
+    "basis": "Regional minister attributes land acquisition difficulty; precise approved site unconfirmed.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-005",
+    "market_id": "MKT-0005",
+    "claim_text": "Land acquisition difficulty reported; site unconfirmed",
+    "source_ids": "SRC-AUD-005",
+    "verification": "V3",
+    "basis": "Regional minister reports unresolved land acquisition; precise market location unverified.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-007",
+    "market_id": "MKT-0007",
+    "claim_text": "Site handover reported; construction not verified",
+    "source_ids": "SRC-AUD-007",
+    "verification": "V1",
+    "basis": "Assembly directly documents site handover, consultant and contractor; handover does not prove physical works.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-008",
+    "market_id": "MKT-0008",
+    "claim_text": "Site handover reported; construction not verified",
+    "source_ids": "SRC-AUD-008",
+    "verification": "V1",
+    "basis": "Assembly directly documents May 26 site handover at old Timber Market, Boete; site clearing not sufficient proof of substantive works.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-009",
+    "market_id": "MKT-0009",
+    "claim_text": "Consultant reported approximately 10% completion at 14 September inspection",
+    "source_ids": "SRC-AUD-009",
+    "verification": "V1",
+    "basis": "Assembly original inspection report establishes reported physical works; 10% consultant estimate, not independently measured.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-010",
+    "market_id": "MKT-0010",
+    "claim_text": "Handover reported; construction not verified",
+    "source_ids": "SRC-AUD-010",
+    "verification": "V1",
+    "basis": "Assembly documents May 14 handover and May 30 scheduled commencement, not actual substantive construction.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-011",
+    "market_id": "MKT-0011",
+    "claim_text": "55% reported project completion at 23 October inspection; not independently certified",
+    "source_ids": "SRC-AUD-011",
+    "verification": "V3",
+    "basis": "ISD official ministerial inspection reports 55% complete; consultant-contractor site assignment not explicit.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  },
+  {
+    "claim_id": "CLM-AUD-012",
+    "market_id": "MKT-0012",
+    "claim_text": "Approximately 20% reported completion; Ashanti Aboabo, NOT Tamale Aboabo",
+    "source_ids": "SRC-AUD-012",
+    "verification": "V3",
+    "basis": "ISD official ministerial inspection reports 20% complete; site district and firm assignment not explicit. Distinct from Tamale Aboabo.",
+    "conflict_note": "",
+    "reviewed_on": "2026-10-28",
+    "reviewer": "Desk review — online sources"
+  }
+]
