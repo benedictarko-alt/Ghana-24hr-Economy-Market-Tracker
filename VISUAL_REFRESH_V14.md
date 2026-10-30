@@ -1,0 +1,1 @@
+Version 14: replaced Epa logo with Ghana flag; shortened carousel heading to Evidence at a glance; rebuilt six self-contained 1200x600 SVG charts with labels inside bounds and explicit source caveats. Reported progress figures and status counts are carried forward from V13, not independently verified.

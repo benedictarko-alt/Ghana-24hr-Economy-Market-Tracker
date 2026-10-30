@@ -101,3 +101,18 @@ header .top{height:auto;min-height:82px;padding-top:10px;padding-bottom:10px;gap
 .hero-briefs .brief-bottom{margin-top:6px}.hero-briefs .brief-note{display:block;font-size:11px;line-height:1.3;margin:5px 0 0;color:#4e655d}
 @media(max-width:960px){header .top{flex-wrap:wrap}header nav{width:100%;justify-content:center;flex-wrap:wrap;gap:13px}.brand-subline{flex-wrap:nowrap}}
 @media(max-width:600px){header .top{padding:8px 0;gap:5px}.brand strong{font-size:15px}.brand-subline{font-size:10px}.brand-subline .ghana-flag{flex-basis:32px;width:32px;height:20px}.identity-mark img{width:37px;height:37px}header nav{gap:9px}header nav a{font-size:10px}.hero-briefs{padding:8px!important}.hero-briefs .brief-viewport{aspect-ratio:1100/540;max-height:none}.hero-briefs .brief-heading h2{font-size:16px!important}.hero-briefs .brief-heading .eyebrow{font-size:8px!important}.hero-briefs .brief-note{font-size:10px}}
+
+/* v14: clear flag branding and uncropped infographic graphics */
+.identity-mark{background:transparent!important;border:0!important;box-shadow:none!important;padding:0!important;overflow:visible!important;flex-shrink:0!important}
+.identity-mark .header-flag{display:flex!important;width:62px!important;height:42px!important;flex-basis:auto!important;border-radius:4px;overflow:hidden;box-shadow:0 2px 9px #001b2950}
+.identity-mark .header-flag span{display:flex}
+.hero-briefs .brief-viewport{aspect-ratio:2/1!important;max-height:none!important;background:#071d32}
+.hero-briefs .brief-slide img{width:100%!important;height:100%!important;aspect-ratio:2/1!important;object-fit:contain!important;display:block!important}
+@media(max-width:650px){.identity-mark .header-flag{width:43px!important;height:29px!important}.hero-briefs .brief-viewport{aspect-ratio:2/1!important}}
+
+/* v15 — high-contrast, legible programme subtitle */
+header .brand-subline{color:#f8fafc!important;font-size:clamp(14px,1.35vw,17px)!important;font-weight:600!important;line-height:1.45!important;letter-spacing:0!important;margin-top:6px!important;gap:10px!important;}
+header .brand-subline b{color:#ffe18a!important;font-weight:800!important;}
+header .brand-copy{max-width:800px;}
+@media(max-width:960px){header .brand-subline{font-size:14px!important;}}
+@media(max-width:600px){header .brand-subline{font-size:13px!important;line-height:1.4!important;}header .top{min-height:0!important;}header .brand strong{font-size:16px!important;}}
