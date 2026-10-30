@@ -132,3 +132,15 @@ header nav{gap:3px;flex-shrink:0;}header nav a{padding:8px 6px;font-size:11px;}
 .hero-briefs .brief-slide img{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;height:100%!important;object-fit:contain!important;}
 @media(max-width:1100px){header .top{flex-wrap:wrap!important;padding:12px 0!important;}header nav{width:100%;justify-content:flex-start!important;}header .brand-subline{font-size:clamp(11px,1.55vw,14px)!important;}}
 @media(max-width:650px){header .brand-subline{white-space:normal!important;font-size:12px!important;}header .brand-subline>span{white-space:normal!important;}header .top{gap:7px!important;}header nav{overflow:auto;}}
+
+/* v17: corrected national flag, consistent subtitle and compact infographic gallery */
+.identity-mark .ghana-flag-correct{display:block;width:62px;height:42px;border:1px solid rgba(255,255,255,.4);border-radius:3px;box-shadow:0 3px 9px #0002}
+header .brand-subline,header .brand-subline span,header .brand-subline b{color:#ffffff!important;font-weight:650!important}
+.hero-briefs .brief-viewport{aspect-ratio:2.75/1!important;max-height:360px!important;min-height:0!important}
+.hero-briefs .brief-slide img{width:100%!important;height:100%!important;object-fit:contain!important}
+.hero-briefs{padding-top:8px!important;padding-bottom:8px!important}
+.hero-briefs .brief-heading{margin-bottom:7px!important}
+#map{height:430px!important;min-height:430px!important}
+.map-key{font-size:12px;color:#486259}.key-dot{display:inline-block;width:10px;height:10px;background:#db8d2a;border-radius:50%;margin-right:6px}
+.market-pin{background:#e5a22e;border:2px solid #fff;box-shadow:0 1px 6px #172d2966;border-radius:50%}
+@media(max-width:650px){.identity-mark .ghana-flag-correct{width:45px;height:30px}.hero-briefs .brief-viewport{aspect-ratio:2.1/1!important;max-height:250px!important}}

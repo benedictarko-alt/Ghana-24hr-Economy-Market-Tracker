@@ -1,0 +1,1 @@
+Version 17: Correct Ghana flag (red/gold/green with centred black star), uniform white subtitle, smaller infographic viewport, and 16 approximate town-centre map pins. Pins are not verified construction locations; 19 unpinned records await reliable town-level geocoding. No market status or evidence records changed. Map tiles require an internet connection.

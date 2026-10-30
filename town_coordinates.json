@@ -1,0 +1,98 @@
+[
+  {
+    "market": "Bunkprugu Market",
+    "latitude": 10.85,
+    "longitude": -0.13,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Ahanta West Market",
+    "latitude": 4.91,
+    "longitude": -2.6,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Shama Junction Market",
+    "latitude": 5.03,
+    "longitude": -1.64,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Ejura Market",
+    "latitude": 7.39,
+    "longitude": -1.36,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Kpando Market",
+    "latitude": 7.0,
+    "longitude": 0.3,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Agogo Market",
+    "latitude": 6.8,
+    "longitude": -1.08,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Akatsi Market",
+    "latitude": 6.12,
+    "longitude": 0.8,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Lawra Market",
+    "latitude": 10.65,
+    "longitude": -2.9,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Techiman Market",
+    "latitude": 7.59,
+    "longitude": -1.94,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Nkoranza Market",
+    "latitude": 7.61,
+    "longitude": -1.71,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Kintampo Market",
+    "latitude": 8.05,
+    "longitude": -1.73,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Yeji Market",
+    "latitude": 8.23,
+    "longitude": -0.56,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Chereponi Market",
+    "latitude": 10.88,
+    "longitude": 0.0,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Walewale Market",
+    "latitude": 10.35,
+    "longitude": -0.8,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Kasseh Market",
+    "latitude": 5.79,
+    "longitude": 0.62,
+    "precision": "Approximate town centre; not project site"
+  },
+  {
+    "market": "Krofrom Market",
+    "latitude": 6.71,
+    "longitude": -1.61,
+    "precision": "Approximate town centre; not project site"
+  }
+]
