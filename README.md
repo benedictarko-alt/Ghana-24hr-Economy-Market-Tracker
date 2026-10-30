@@ -40,3 +40,7 @@ To test locally: `python -m http.server 8000` from this folder, then open localh
 
 ## Verification module (v2)
 The site now includes a verification centre with V1–V5 counts, filters, source/claim/change registers, and a publication-ready filter. All 12 legacy market records are conservatively marked V4, not reviewed. Populate `sources.json`, `claims.json`, and `changes.json` following `VERIFICATION_PROTOCOL.md`. These registers are initially empty, not fabricated. The public site does not offer a secure editing interface; edit data files offline and commit reviewed changes.
+
+
+## 30 October 2026 audit expansion
+Five candidate records promoted to audited with source-level evidence, see AUDIT_EXPANSION_V6.md. Audited 17, candidate 18. This is not 17 independently site-verified projects.
