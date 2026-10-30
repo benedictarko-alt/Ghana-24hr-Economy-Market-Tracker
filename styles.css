@@ -42,4 +42,4 @@ th{background:#eaf1f5;color:#506a7b}tbody tr:hover{background:#f2f9f8}th,td{padd
 @media(prefers-reduced-motion:reduce){.ghana-flag{animation:none}}
 
 /* Traditional Epa image replaces the earlier invented handcuff emblem. */
-.identity-mark img{display:block;width:100%;height:100%;object-fit:contain;filter:brightness(0) saturate(100%) invert(80%) sepia(31%) saturate(822%) hue-rotate(355deg) brightness(103%) contrast(96%)}
+.identity-mark img{display:block;width:100%;height:100%;object-fit:contain;filter:none}
