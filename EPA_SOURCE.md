@@ -1,0 +1,1 @@
+Logo reference: https://commons.wikimedia.org/wiki/File:Epa_(Adinkra).png (original by Bosomba Amosah, cropped by Pablo Busatto). Image is loaded remotely from Wikimedia Commons; inspect licensing/attribution on source page. The previous hand-drawn SVG did not accurately reproduce Epa and has been replaced. Gallery stays on the homepage; the separate navigation link was removed.
