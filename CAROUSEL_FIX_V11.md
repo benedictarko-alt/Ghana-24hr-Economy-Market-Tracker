@@ -1,0 +1,1 @@
+Version 11: reduced headline/hero height; collapsible audit notice; carousel uses native horizontal scroll with CSS scroll snapping and timed JS rotation, arrows, dots, keyboard navigation, and pause. Browser cache-busting applied. No market data altered.

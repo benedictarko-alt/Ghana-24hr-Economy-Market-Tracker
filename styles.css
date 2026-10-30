@@ -48,3 +48,37 @@ th{background:#eaf1f5;color:#506a7b}tbody tr:hover{background:#f2f9f8}th,td{padd
 .coverage-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:14px 0 28px}.coverage-card{background:#f6f8f5;border:1px solid #dce5df;border-radius:12px;padding:13px}.coverage-card strong{display:block;color:#143b34;font-size:15px}.coverage-card span{font-size:12px;color:#556a61}.coverage-card.none{opacity:.68}.coverage-card b{font-size:22px;color:#b18a2b}#candidateSearch{min-width:220px;max-width:100%}#candidateBody td{vertical-align:top}#candidateBody small{display:block;color:#667b73;margin-top:5px}#candidateBody a{color:#146b53}
 /* Public briefing infographic carousel */
 .public-briefs{margin:26px 0 34px;padding:26px;border-radius:22px;background:linear-gradient(145deg,#f4f8f7,#e9f1ed);border:1px solid #d7e5e1;box-shadow:0 10px 30px #102e2812}.brief-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:16px}.brief-heading h2{font-size:clamp(1.35rem,2.6vw,2rem);margin:6px 0}.brief-heading p{margin:0;max-width:800px;color:#455b59}.brief-actions{display:flex;gap:9px}.brief-arrow,.brief-bottom button{cursor:pointer;border:1px solid #bacdc5;border-radius:100px;background:#fff;color:#183e36;padding:10px 15px;font-weight:700}.brief-arrow:hover,.brief-bottom button:hover{background:#e2efe9}.brief-viewport{overflow:hidden;border-radius:18px;touch-action:pan-y;box-shadow:0 14px 28px #132d2b25}.brief-track{display:flex;transition:transform .55s ease}.brief-slide{margin:0;flex:0 0 100%;min-width:0}.brief-slide img{display:block;width:100%;height:auto;aspect-ratio:1280/670;object-fit:cover}.brief-bottom{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-top:16px}.brief-dots{display:flex;gap:9px}.brief-dot{border:0!important;background:#a4b9b2!important;width:10px;height:10px;border-radius:50%;padding:0!important}.brief-dot.active{background:#10634d!important;width:28px;border-radius:20px}.brief-note{font-size:.82rem;color:#506660;margin:14px 0 0}@media(max-width:650px){.public-briefs{padding:14px}.brief-heading{align-items:flex-start}.brief-heading p{font-size:.85rem}.brief-arrow{padding:8px 11px}.brief-bottom{gap:8px}.brief-bottom button{font-size:.75rem;padding:7px 10px}}@media(prefers-reduced-motion:reduce){.brief-track{transition:none}}
+
+/* V11: Compact above-the-fold hero and resilient infographic navigation */
+.hero{min-height:0!important;margin:12px 0 10px!important;padding:0!important;border-radius:17px!important}
+.hero-content{padding:17px 26px 22px!important}
+.hero h1{font-size:clamp(25px,3.05vw,41px)!important;line-height:1.12!important;letter-spacing:-.7px!important;margin:9px 0!important;max-width:1050px}
+.hero h1 br{display:none}
+.hero .flag-and-label{gap:10px}.hero .ghana-flag{transform:scale(.73);transform-origin:left center;margin-right:-20px}
+.hero-tags{margin:9px 0!important;gap:6px}.hero-tags span{padding:5px 9px;font-size:10px}
+.hero-content>p{margin:6px 0!important;font-size:13px!important;line-height:1.35!important;max-width:950px;color:#e1eef0}
+.hero-disclosure{margin-top:9px!important;padding:7px 11px!important;max-width:100%;font-size:11px;line-height:1.35;background:#fff7dfed;color:#433a1f}
+.hero-disclosure summary{cursor:pointer;font-weight:750}.warning-detail{padding-top:8px}
+.hero-credit{font-size:8px;bottom:5px;right:12px}.public-briefs{margin:10px 0 24px;padding:15px 19px}.brief-heading{margin-bottom:9px}.brief-heading h2{font-size:clamp(19px,2.1vw,26px);margin:2px 0}.brief-heading p{font-size:12px;line-height:1.35}.brief-viewport{overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain}.brief-viewport::-webkit-scrollbar{display:none}.brief-track{transition:none!important}.brief-slide{scroll-snap-align:start}.brief-slide img{height:auto}.brief-bottom{margin-top:9px}.brief-note{margin-top:7px;font-size:11px}
+@media(max-width:650px){.hero{margin:7px 0!important}.hero-content{padding:13px 14px 23px!important}.hero h1{font-size:clamp(23px,5.3vw,31px)!important}.hero-tags{margin:7px 0!important}.hero-tags span{font-size:9px}.hero-content>p{font-size:12px!important}.hero .eyebrow{font-size:9px;letter-spacing:1px}.public-briefs{padding:10px;margin-top:8px}.brief-heading{gap:5px}.brief-heading h2{font-size:18px}.brief-heading p{font-size:11px}.brief-arrow{padding:6px 9px}.brief-note{font-size:10px}}
+
+/* V12: infographic explainer is integrated INSIDE the compact headline hero */
+.hero{display:grid!important;grid-template-columns:minmax(0,0.88fr) minmax(0,1.12fr)!important;align-items:center!important;gap:14px!important;min-height:0!important;margin:10px 0 18px!important;padding:16px!important;overflow:hidden!important}
+.hero-content{padding:9px 12px!important;min-width:0!important}
+.hero h1{font-size:clamp(23px,2.5vw,34px)!important;line-height:1.11!important;margin:8px 0!important;letter-spacing:-.4px!important}
+.hero .flag-and-label{gap:6px!important}.hero .ghana-flag{width:60px;height:39px;transform:none!important;margin-right:0!important}
+.hero .black-star{font-size:15px}.hero .eyebrow{font-size:9px;letter-spacing:1px}
+.hero-tags{margin:8px 0!important}.hero-tags span{padding:4px 7px!important;font-size:9px!important}
+.hero-content>p{font-size:12px!important;line-height:1.3!important;margin:6px 0!important}
+.hero-disclosure{font-size:10px!important;padding:6px 9px!important;margin-top:7px!important}
+.hero-briefs{position:relative;z-index:3;margin:0!important;padding:10px!important;min-width:0;background:#f4f8f7!important;border-radius:13px!important;box-shadow:none!important}
+.hero-briefs .brief-heading{margin-bottom:6px;gap:5px}.hero-briefs .brief-heading h2{font-size:15px;margin:0;color:#123e37}.hero-briefs .brief-heading p{display:none}.hero-briefs .eyebrow{font-size:8px;letter-spacing:.7px;color:#176f61}
+.hero-briefs .brief-arrow{padding:4px 8px;font-size:14px}.hero-briefs .brief-viewport{overflow:hidden!important;scroll-snap-type:none!important;box-shadow:none;border-radius:9px}
+.hero-briefs .brief-track{display:flex;will-change:transform;transition:transform .45s ease!important}
+.hero-briefs .brief-slide{flex:0 0 100%;width:100%;min-width:0;display:block}
+.hero-briefs .embedded-brief{display:block;width:100%;height:auto;aspect-ratio:1280/670}
+.hero-briefs .brief-bottom{margin-top:5px}.hero-briefs .brief-note{display:none}.hero-briefs .brief-bottom button{padding:5px 8px;font-size:10px}
+.hero-briefs .brief-dot{height:7px;width:7px}.hero-briefs .brief-dot.active{width:20px}
+.hero-credit{display:none}
+@media(max-width:760px){.hero{grid-template-columns:1fr!important;gap:5px!important;padding:9px!important}.hero-content{padding:5px 9px!important}.hero h1{font-size:clamp(20px,4.3vw,29px)!important;margin:4px 0!important}.hero .hero-tags{display:none}.hero-content>p{font-size:11px!important;margin:3px 0!important}.hero-disclosure{margin-top:5px!important}.hero-briefs{padding:8px!important}.hero-briefs .brief-heading h2{font-size:13px}.hero-briefs .brief-heading .eyebrow{display:none}}
+@media(prefers-reduced-motion:reduce){.hero-briefs .brief-track{transition:none!important}}
