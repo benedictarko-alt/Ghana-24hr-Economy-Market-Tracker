@@ -1,0 +1,1 @@
+Version 26: Shifted the Selected Local Estimates panel 60 SVG units right (x=760 to x=820), narrowed it to remain inside the 1200-unit canvas, moved its text 55 units right, and reduced panel heading size to prevent overlap with the design-cost chart. All data unchanged.
